@@ -13,6 +13,8 @@ const Box = (props) => {
     result = props.result
   }
 
+  //git test
+
   return (
     <div className={`box ${result}`}> 
       <h1>{props.title}</h1>
